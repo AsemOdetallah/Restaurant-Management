@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename enum constant &apos;PerformencereportsReportMonthly&apos; of &apos;common.Messages&apos; to &apos;PerformenceReportMonthly&apos;&#x0D;&#x0A;- Original project: &apos;Assignment3_Common&apos;&#x0D;&#x0A;- Original element: &apos;common.Messages.PerformencereportsReportMonthly&apos;&#x0D;&#x0A;- Renamed element: &apos;common.Messages.PerformenceReportMonthly&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename enum constant &apos;PerformencereportsReportMonthly&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.enum.constant" input="/src&lt;common{Messages.java[Messages^PerformencereportsReportMonthly" name="PerformenceReportMonthly" references="true" setter="false" stamp="1641235738919" textual="false" version="1.0"/>
+</session>

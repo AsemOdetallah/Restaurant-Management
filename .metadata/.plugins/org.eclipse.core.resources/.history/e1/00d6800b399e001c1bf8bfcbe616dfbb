@@ -1,0 +1,90 @@
+package lklk;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+public class minPro {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+      ArrayList a = new ArrayList<Integer>();
+
+     
+
+      long i=80l;
+
+      a.add(i);
+
+      System.out.println(a.get(0));
+
+
+/*
+          sol3 S = new sol3();
+
+
+
+          //String[] input = { "basket", "basketball", "foot", "football", "tennis", "bigtennisball" };
+
+          String [] input={"geeks", "for", "geeksfor", "geeksforgeeks"};
+
+         
+
+          System.out.println(S.longestSurString(input));
+
+         
+
+          System.out.println(S.isReverseNumber(505));
+
+          S.foo();
+
+          int[] nums={1,2,3,4,5,6,8,9,10};
+
+         
+
+          System.out.println(S.findmissingnum(nums));*/
+
+//      List<String> list =new LinkedList<>();
+
+//     
+
+//      List<Object> o =list;
+
+
+
+//
+
+//      String s1 = "abcdabcdabcdabcdabs";
+
+//      String s2 = "ab";
+
+//      int[] nums = { 3, 2, 4 };
+
+//      int target = 6;
+
+//
+
+//      int[] res = S.twoSum(nums, target);
+
+//
+
+//      System.out.println(String.format("id=%08.2f", 423.147));
+
+//
+
+//      final Set<String> set = new HashSet<>();
+
+//      set.add("hello");
+
+//      System.out.println(set);
+
+
+
+          // System.out.println(Arrays.toString(res));
+
+          // System.out.println(S.inString(s1,s2));
+	}
+
+}
