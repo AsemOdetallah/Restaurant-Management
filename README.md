@@ -1,4 +1,5 @@
 BiteMe_Restaurant_Management
+
 A 5th-semester assignment was assigned to a group of students, each group was between 5-6 students, our group included 5 students.
 
 The project was built using Java, JavaFX, SceneBuilder, MySQL. Test on the project using UnitTesting and Functional Testing with Jubula.
